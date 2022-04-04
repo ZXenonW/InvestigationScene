@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2986208b-6dbb-72f8-d6df-756d1c5e2be6": {
+      "ProjectGuid": "2986208b-6dbb-72f8-d6df-756d1c5e2be6",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "5af2ebf9-932b-6b32-7039-4f85ff788347": {
+      "ProjectGuid": "5af2ebf9-932b-6b32-7039-4f85ff788347",
+      "DisplayName": "Assembly-CSharp-Editor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
